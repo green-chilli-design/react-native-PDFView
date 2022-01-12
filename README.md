@@ -1,3 +1,8 @@
+# GCD Fork
+This repo is forked for the sole purpose to workaround the `jcenter` sunset. This module does not appear to be hosted on Maven currently.
+
+`build.gradle` has been modified to use Jitpack to get the AndroidPDFViewer from the original git repository.
+
 # react-native-view-pdf
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c1c746575c124138936e9418865136ab)](https://app.codacy.com/app/rumax/react-native-PDFView?utm_source=github.com&utm_medium=referral&utm_content=rumax/react-native-PDFView&utm_campaign=Badge_Grade_Dashboard)
