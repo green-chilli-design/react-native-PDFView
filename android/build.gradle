@@ -33,5 +33,6 @@ dependencies {
 
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+"
-    implementation "com.github.barteksc:android-pdf-viewer:$pdfViewerVersion"
+    // implementation "com.github.barteksc:android-pdf-viewer:$pdfViewerVersion"
+    implementation 'com.github.barteksc:AndroidPdfViewer:-SNAPSHOT'
 }
